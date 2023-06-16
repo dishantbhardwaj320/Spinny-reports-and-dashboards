@@ -1,0 +1,46 @@
+$distinct_id,$name,$email,$last_seen,$country_code,$region,$city,$ios_app_release,$android_app_version_code
+"6294b1d818c9836964064a0c::733AB4D9-F3A3-41F8-82B8-B05B458E438E","Ankan Mishra","undefined","2023-03-02T09:35:17","India","Tamil Nadu","Chennai","3.0.0",undefined
+"63b808fa1a03b710c6f85f84::2e90e8ac-bf87-4564-8b54-f38f7ff49db3","Abhishek Suraj","undefined","2023-02-10T13:27:29","India","National Capital Territory of Delhi","Delhi","undefined",300000
+"63b808fa1a03b710c6f85f84::5A443C68-9E36-4914-B6B5-736602A44E53","Abhishek Suraj","undefined","2023-02-16T16:02:41","India","National Capital Territory of Delhi","Delhi","3.0.1",undefined
+"62fdede293548010fa488729::bd86acd1-7328-40f3-9eae-949abf75eba8","Naveen","undefined","2023-03-01T17:44:54","India","Uttar Pradesh","Ghaziabad","undefined",300052
+"63edc1ce130e90b69bfa8678::25deffda-7167-45a6-addd-02bac1c5fe7c","Prashant Khokhar","undefined","2023-02-26T13:29:28","India","Himachal Pradesh","Shimla","undefined",300001
+"62dff1334785e56f67f4a742::B1BD98DE-3343-4563-A9DB-692DCF454FBA","gurveen bedi","undefined","2023-03-01T21:55:25","India","Uttar Pradesh","Noida","3.0.0",undefined
+"6321d704e5d9ff6901b99c61::a5fa1d04-91de-4b2f-afff-fc33342fdb59","Rajat","undefined","2023-03-01T13:48:09","India","National Capital Territory of Delhi","Delhi","undefined",300002
+"6321d704e5d9ff6901b99c61::653A0CE1-D586-4DA7-B637-B62B33BCEB28","Rajat","undefined","2023-01-16T16:46:51","India","Madhya Pradesh","Indore","0.0.0",undefined
+"63a06360734c9a10ad84c594::371d16bd-8e0f-4ab1-8861-4220f1414827","Akash","undefined","2023-03-01T19:49:26","India","National Capital Territory of Delhi","Delhi","undefined",300000
+"62947ff518c98374ff6827d4::C441F783-D312-49DF-A11B-0F5F7FA1298C","Poonam","undefined","2023-02-28T18:21:34","India","National Capital Territory of Delhi","Delhi","3.0.0",undefined
+"63b808fa1a03b710c6f85f84::9C2A94FC-E594-4BCC-9A8E-C18B33F6FB47","Abhishek Suraj","undefined","2023-02-06T19:08:30","India","National Capital Territory of Delhi","New Delhi","3.0.0",undefined
+"62dff1334785e56f67f4a742::76647B9E-581D-4219-8F80-F44CA1735ADC","gurveen bedi","undefined","2023-03-02T09:34:18","India","Uttar Pradesh","Noida","3.0.0",undefined
+"6344e2dfbb306f10b646cedf::2C4F763F-AC78-4575-983C-A3D184C89525","Sandeep Dalmia","undefined","2023-03-02T07:48:55","India","Uttar Pradesh","Noida","3.0.0",undefined
+"63b808fa1a03b710c6f85f84::690dd5d3-54ea-44bb-b1ce-19c54b402e24","Abhishek Suraj","undefined","2023-02-05T01:22:11","India","National Capital Territory of Delhi","Delhi","undefined",300000
+"6294eab918c9836964064a13::D15B6851-063B-48C4-9B47-40E959D30195","surinder singh","undefined","2023-03-02T08:18:13","India","National Capital Territory of Delhi","Delhi","3.0.0",undefined
+"6294ab7518c9836964064a02::ddebc687-711b-4342-94c5-20d74bca10c6","Manhar","undefined","2023-02-15T19:45:24","India","National Capital Territory of Delhi","Delhi","undefined",300050
+"6293025c18c98374ff6827cf::efd6b219-cf4f-4b42-90d0-c629c8e5e313","Mukul Kashyap","undefined","2023-02-21T15:23:36","India","National Capital Territory of Delhi","Delhi","undefined",300050
+"63b808fa1a03b710c6f85f84::D6BDB8D1-C2DA-438E-891D-EF4BA0E079E0","Abhishek Suraj","undefined","2023-02-04T21:49:15","India","National Capital Territory of Delhi","Delhi","3.0.0",undefined
+"62947fa818c98374ff6827d3::9cba6f90-b825-4265-8aa3-9ed1a3d0d6f0","Abhishek","undefined","2023-02-14T17:19:11","India","National Capital Territory of Delhi","Delhi","undefined",300050
+"6284dfae18c983214033e753::5D966514-62E4-4434-A2BF-6D761722FEF5","Manish Raj","undefined","2023-02-15T07:30:50","India","Haryana","Gurgaon","3.0.0",undefined
+"630c68fe93548025162f23f9::7CE02475-2762-4A6A-A07E-9918508BE061","Akshay","undefined","2023-02-26T17:12:54","India","National Capital Territory of Delhi","Delhi","3.0.0",undefined
+"62947fa818c98374ff6827d3::34C007AB-D0C3-44E5-B38F-9B65597FA8CC","Abhishek","undefined","2023-02-15T16:11:05","India","National Capital Territory of Delhi","Delhi","3.0.0",undefined
+"63a06360734c9a10ad84c594::ec1dc764-581b-4cee-9273-951faae75abf","Akash","undefined","2023-02-11T13:53:57","India","Haryana","Gurgaon","undefined",300000
+"63edc1ce130e90b69bfa8678::65336f11-c97f-42e8-b875-2fee7db2b9c4","Prashant Khokhar","undefined","2023-02-26T11:36:24","India","Rajasthan","Jaipur","undefined",300001
+"6321d704e5d9ff6901b99c61::9C2A94FC-E594-4BCC-9A8E-C18B33F6FB47","Rajat","undefined","2023-02-13T13:40:33","India","Haryana","Gurgaon","3.0.0",undefined
+"63629e9c8af73a342642bc01::352a58da-e5b7-4a95-ae13-c2b8cd9b8b8a","Bhumit","undefined","2023-02-28T21:43:35","India","Haryana","Bahadurgarh","undefined",300052
+"62947fa818c98374ff6827d3::5106454a-c0bf-4f2e-a1d0-9e0fbd170f85","Abhishek","undefined","2023-02-15T11:53:33","India","National Capital Territory of Delhi","New Delhi","undefined",300000
+"6294b12518c9836964064a0b::A4A490AF-4532-4E38-A128-39300EC9F8D4","Varun S","undefined","2023-03-02T08:06:17","India","National Capital Territory of Delhi","Delhi","3.0.0",undefined
+"63b808fa1a03b710c6f85f84::c1fe13e8-e362-4195-8f92-29e82b47719c","Abhishek Suraj","undefined","2023-02-06T19:26:02","India","National Capital Territory of Delhi","Delhi","undefined",300000
+"63b808fa1a03b710c6f85f84::80871537-8784-44c3-b26d-c9948f485d6c","Abhishek Suraj","undefined","2023-02-04T21:57:03","India","National Capital Territory of Delhi","Delhi","undefined",300000
+"6321d704e5d9ff6901b99c61::5106454a-c0bf-4f2e-a1d0-9e0fbd170f85","Rajat","undefined","2023-02-28T18:08:27","India","National Capital Territory of Delhi","New Delhi","undefined",300000
+"62fdede293548010fa488729::5A443C68-9E36-4914-B6B5-736602A44E53","Naveen","undefined","2023-02-16T16:05:01","India","National Capital Territory of Delhi","Delhi","3.0.1",undefined
+"630c9f0f74f91025b2319e9a::e9cbe1e3-9eaa-487e-a231-adc116ad493c","Nomit Verma","undefined","2023-03-01T15:17:13","India","National Capital Territory of Delhi","Delhi","undefined",300052
+"63a06360734c9a10ad84c594::80871537-8784-44c3-b26d-c9948f485d6c","Akash","undefined","2023-02-10T14:20:18","India","National Capital Territory of Delhi","Delhi","undefined",300000
+"614d9efaef88cd2c6529edc3::BC0B1C02-1AB9-4355-B86E-4D216554FD10","Ashiv Gupta","undefined","2023-03-01T13:59:23","India","Uttar Pradesh","Ghaziabad","3.0.0",undefined
+"6322f1e4e5d9ff7a286f3542::74DFDB8A-47AA-4F37-9D97-A11B2B246EA7","Deepak Kumar Goyal","undefined","2023-02-21T00:19:52","India","National Capital Territory of Delhi","Delhi","3.0.0",undefined
+"6153cea8ef88cd2c6529edca::A562640D-DFD8-49AE-9277-FD3396C95F61","Arushi","undefined","2023-02-27T00:53:25","India","National Capital Territory of Delhi","Delhi","3.0.0",undefined
+"6321d704e5d9ff6901b99c61::D6BDB8D1-C2DA-438E-891D-EF4BA0E079E0","Rajat","undefined","2023-02-09T15:56:30","India","National Capital Territory of Delhi","Delhi","3.0.0",undefined
+"3935E9B4-DDDA-4622-9524-2808BE64DBFB","Abhishek","undefined","2023-02-15T12:03:17","India","National Capital Territory of Delhi","Delhi","3.0.0",undefined
+"63b808fa1a03b710c6f85f84::5106454a-c0bf-4f2e-a1d0-9e0fbd170f85","Abhishek Suraj","undefined","2023-02-07T18:48:02","India","Haryana","Gurgaon","undefined",300000
+"63b808fa1a03b710c6f85f84::7f9528c2-a5de-42dc-be0c-782f471a5a06","Abhishek Suraj","undefined","2023-02-27T17:08:33","India","National Capital Territory of Delhi","Delhi","undefined",300000
+"6294a84d18c98369640649fe::b2b165f8-7fd7-4196-b879-38081d4b1bb1","Pranjal","undefined","2023-02-17T00:15:19","India","National Capital Territory of Delhi","Delhi","undefined",300050
+"63a06360734c9a10ad84c594::D6BDB8D1-C2DA-438E-891D-EF4BA0E079E0","Akash","undefined","2023-02-06T20:38:10","India","National Capital Territory of Delhi","Delhi","3.0.0",undefined
+"6321d704e5d9ff6901b99c61::2ad9baee-0521-4bd4-a159-04cc45efbb23","Rajat","undefined","2023-02-14T12:45:16","India","National Capital Territory of Delhi","New Delhi","undefined",300000
+"6321d704e5d9ff6901b99c61::5C4B58AE-5026-4376-9D21-3345B8DFA0A4","Rajat","undefined","2023-02-09T18:50:17","India","National Capital Territory of Delhi","Delhi","3.0.0",undefined
